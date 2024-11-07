@@ -4,7 +4,7 @@
 ---
 
 
-'''bash
+```bash
 touch README.md
-'''
+```  
 Как-то так!
